@@ -1,0 +1,78 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "scottybrackett@gmail.com",
+    "longName": "cat_pic",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/AndersPebble11.png",
+                "name": "ANDERS_11",
+                "type": "png"
+            },
+            {
+                "file": "images/AndersPebble10.png",
+                "name": "ANDERS_10",
+                "type": "png"
+            },
+            {
+                "file": "images/AndersPebble9.png",
+                "name": "ANDERS_9",
+                "type": "png"
+            },
+            {
+                "file": "images/AndersPebble8.png",
+                "name": "ANDERS_8",
+                "type": "png"
+            },
+            {
+                "file": "images/AndersPebble7.png",
+                "name": "ANDERS_7",
+                "type": "png"
+            },
+            {
+                "file": "images/AndersPebble6actualgdi.png",
+                "name": "ANDERS_6",
+                "type": "png"
+            },
+            {
+                "file": "images/AndersPebble5.png",
+                "name": "ANDERS_5",
+                "type": "png"
+            },
+            {
+                "file": "images/AndersPebble4.png",
+                "name": "ANDERS_4",
+                "type": "png"
+            },
+            {
+                "file": "images/AndersPebble3.png",
+                "name": "ANDERS_3",
+                "type": "png"
+            },
+            {
+                "file": "images/AndersPebble2.png",
+                "name": "ANDERS_2",
+                "type": "png"
+            },
+            {
+                "file": "images/AndersPebble1.png",
+                "name": "ANDERS_1",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "cat_pic",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "285ed934-244c-4109-8d5e-f86618bf331a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
