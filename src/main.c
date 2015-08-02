@@ -94,7 +94,7 @@ static void data_handler() {
       break;
      
     }
-animation_timer = app_timer_register(2000, data_handler, NULL);
+animation_timer = app_timer_register(250, data_handler, NULL);
 
    if(animation_frame <= 10){
     ++animation_frame;
@@ -151,7 +151,7 @@ static void main_window_unload(Window *window) {
 
 static void init() {
   window = window_create();
-  window_set_background_color(window, GColorBlack);
+  window_set_background_color(window, GColorClear);
   window_set_window_handlers(window, (WindowHandlers) {
     .load = main_window_load,
     .unload = main_window_unload,
